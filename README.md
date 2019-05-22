@@ -2,7 +2,7 @@
 **不积跬步无以至千里**
 ***
 ***
-<font face="STCAIYUN" color="#0099ff">&#00002;</font>
+<font face="STCAIYUN" color="#0099ff">&#0002;</font>
 2019-05-22
 
 <font face="微软雅黑" color="#0099ff">说一说你对HTML5语义化的理解</font>
@@ -17,7 +17,8 @@
 有利于开发和维护，语义化更具可读性，代码更好维护，与CSS3关系更和谐。
 ```
 ***
-<font face="STCAIYUN" color="#0099ff">&#00001;</font>
+
+<font face="STCAIYUN" color="#0099ff">&#0001;</font>
 2019-05-21
 
 <font face="微软雅黑" color="#0099ff">JS中基本数据类型有哪几种？null 是对象吗？基本数据类型和复杂数据类型有什么区别？</font>
